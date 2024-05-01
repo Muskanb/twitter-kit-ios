@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct TweetViewDemo: Demo {
+struct TweetViewDemo: DemoItIs {
     var title: String = "Tweet View Demos"
     var description: String = "Demos for TWTRTweetView"
     var viewController: UIViewController {
